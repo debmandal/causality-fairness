@@ -14,3 +14,4 @@ List of papers using causality to define and / or solve fairness :
 * [Pooling of Causal Models under Counterfactual Fairness via Causal Judgement Aggregation](https://arxiv.org/abs/1805.09866), F. Zennaro and M. Ivanovska, *arxiv*, 2018.
 * [Counterfactually Fair Prediction Using Multiple Causal Models](https://arxiv.org/abs/1810.00694), F. Zennaro and M. Ivanovska, *arxiv*, 2018.
 * [Avoiding Discrimination with Counterfactual Distributions](https://scholar.harvard.edu/files/hao/files/ctf.pdf), H. Wang et al., *arxiv*, 2018.
+* [Fairness Through Causal Awareness: Learning Latent-Variable Models for Biased Data](https://arxiv.org/abs/1809.02519), D. Madras et al., *arxiv*, 2018.
